@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+    background-color: rgb(163, 163, 163);
+}
+
+.titulo {
+    font-family: 'Raleway', sans-serif;
+}
+
+.paragrafo {
+    font-family: 'Raleway', sans-serif;
+}
+
+.ancora {
+    font-family: 'Raleway', sans-serif;
+}

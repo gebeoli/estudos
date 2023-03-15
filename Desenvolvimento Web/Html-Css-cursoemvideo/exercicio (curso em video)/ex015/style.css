@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: rgb(88, 88, 88);
+}
+
+p {
+    text-align: justify;
+}

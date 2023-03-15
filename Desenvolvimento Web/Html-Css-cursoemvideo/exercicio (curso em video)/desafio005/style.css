@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@400;700&family=Ibarra+Real+Nova:wght@400;700&display=swap');
+
+body {
+    background-color:blanchedalmond
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    font-family: 'Cormorant SC', serif;
+    color: rgb(133, 79, 26);
+}
+
+.subtitulo {
+    display: flex;
+    justify-content: center;
+    font-family: 'Cormorant SC', serif;
+    color: rgb(133, 79, 26);
+}
+
+.selfie {
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paragrafo {
+    font-family: 'Ibarra Real Nova', serif;
+    color: rgb(133, 79, 26);
+    padding-bottom: 20px;
+}
+
+.conteudo-secundario {
+    padding-top: 20px;
+    border-top: 0.1px solid ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Ibarra Real Nova', serif;
+    color: rgb(133, 79, 26);
+}
+
